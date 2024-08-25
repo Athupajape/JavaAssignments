@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class SwapNumbers {
 
 	//Swapping of two number using third variable
+	
 	int a,b,c;
 	
 	public void Swap(int a,int b) {
